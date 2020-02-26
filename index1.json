@@ -19,6 +19,5 @@ for (i in myObj.cars) {
 }
 document.getElementById("demo").innerHTML = x;
 </script>
-
 </body>
 </html>
