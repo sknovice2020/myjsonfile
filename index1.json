@@ -15,7 +15,7 @@ myObj = {
 };
 
 for (i in myObj.cars) {
-  x += myObj.cars[i] + "<br>";
+  x+1= myObj.cars[i] + "<br>";
 }
 document.getElementById("demo").innerHTML = x;
 </script>
