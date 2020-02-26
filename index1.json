@@ -14,9 +14,9 @@ myObj = {
   "cars":[ "Ford", "BMW", "Fiat" ]
 };
 
-for (i in myObj.cars) {
-  x+1= myObj.cars[i] + "<br>";
-}
+//for (i in myObj.cars) {
+ // x+1= myObj.cars[i] + "<br>";
+//}
 document.getElementById("demo").innerHTML = x;
 </script>
 </body>
